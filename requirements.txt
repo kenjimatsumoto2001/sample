@@ -1,0 +1,28 @@
+altgraph @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot7/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-133.100.1.1/altgraph-0.17.2-py2.py3-none-any.whl
+attrs==22.2.0
+contourpy==1.0.7
+cycler==0.11.0
+exceptiongroup==1.1.1
+fonttools==4.39.3
+future @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot7/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-133.100.1.1/future-0.18.2-py3-none-any.whl
+importlib-resources==5.12.0
+iniconfig==2.0.0
+joblib==1.2.0
+kiwisolver==1.4.4
+macholib @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot7/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-133.100.1.1/macholib-1.15.2-py2.py3-none-any.whl
+matplotlib==3.7.1
+mysql-connector-python==8.0.33
+numpy==1.24.2
+packaging==23.0
+Pillow==9.5.0
+pluggy==1.0.0
+protobuf==3.20.3
+pyparsing==3.0.9
+pytest==7.2.2
+python-dateutil==2.8.2
+scikit-learn==1.2.2
+scipy==1.10.1
+six @ file:///System/Volumes/Data/SWE/Apps/DT/BuildRoots/BuildRoot7/ActiveBuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-133.100.1.1/six-1.15.0-py2.py3-none-any.whl
+threadpoolctl==3.1.0
+tomli==2.0.1
+zipp==3.15.0
